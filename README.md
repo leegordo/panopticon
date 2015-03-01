@@ -1,7 +1,7 @@
 # About
 Meet The Panopticon, a Processing + Arduino powered prototype/sculpture that can recognize human faces and swivel to follow them. It's a reminder that the technologies we love and the governments meant to protect us are spying on us with impunity. 
 
-It’s based on http://gregborenstein.com/ libraries, hacked together with a tutorial from http://www.duino-robotics.com/face-tracking.html
+It’s based on http://gregborenstein.com/ libraries, hacked together with a tutorial from http://www.duino-robotics.com/face-tracking.html. (These guys are legends, and I wouldn't have been able to get this project to work without their sharing and caring posts. Thanks, guys.)
 
 I’d like to get as many of us making these as we can, placing them around the cities of the world, reminding everyone of the world we live in.
 
